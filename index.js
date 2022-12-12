@@ -19,7 +19,7 @@ for(let i=10; i<21; i++){
 console.groupEnd();
 
 console.group('Вивести таблицю множення на 7');
-let MyNumber = 1;
+let myNumber = 1;
 while (myNumber <=10){
     console.log(`7 * ${myNumber} = ${7 * myNumber}`);
     myNumber++;
